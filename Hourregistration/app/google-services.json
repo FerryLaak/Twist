@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673740436690",
+    "firebase_url": "https://hourregistration-463fa.firebaseio.com",
+    "project_id": "hourregistration-463fa",
+    "storage_bucket": "hourregistration-463fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673740436690:android:d6f90cf708d30d72",
+        "android_client_info": {
+          "package_name": "com.hourregistration.ferry.hourregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673740436690-fvimbibn7ijru05sgbfqn00hpoep9fpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hourregistration.ferry.hourregistration",
+            "certificate_hash": "f86f8d87b73899c262e283895014bba497caeddf"
+          }
+        },
+        {
+          "client_id": "673740436690-6fhsbjfqdeho44i4rn59navebjdrvnol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLDgRxhPFGK3T_irp0EgnuM8XmUfCp7SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673740436690-6fhsbjfqdeho44i4rn59navebjdrvnol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
